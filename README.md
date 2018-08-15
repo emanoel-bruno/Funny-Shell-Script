@@ -1,5 +1,5 @@
 # Spider_Pig
-This is program made with shell script that show the image of "spider pig" from simpsons ad play the it's song. 
+This is a program made with shell script that show the image of "spider pig" from simpsons ad play the it's song. 
 
 It uses the command xcowsay and mpg123.
 
