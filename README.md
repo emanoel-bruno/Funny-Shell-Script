@@ -4,11 +4,18 @@ This is a collection of scripts made to show how funny can be progamming with sh
   
 ## How to Install
 
-It uses the command xcowsay and mpg123, so you need install with the following commands.
+### Debian Based 
 
-      sudo apt-get install xcowsay 
-      sudo apt-get install mpg123 
+#### Spider Pig.
 
+      sudo apt-get install -y xcowsay mpg123
+
+### Arch Based
+
+      sudo pacman -S yay mpg123
+      yay -S xcowsay
+
+## Scripts
 
 ### Spider Pig
-This is a program made with shell script that show the image of "spider pig" from simpsons ad play the it's song. 
+This program shows the Simpsons' "Spider-Pig" image and plays his music.

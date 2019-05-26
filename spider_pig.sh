@@ -19816,8 +19816,7 @@ EOF
 
 
 xcowsay --time 50  --at 0,0 --image $tmp "Spider Pig" &
-mpg123 $tmp2 2>/dev/null -t 21 &
+mpg123 $tmp2 2>/dev/null - 21 &
 sleep 1;
 rm $tmp;
 rm $tmp2;
-sleep 20;
